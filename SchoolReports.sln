@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27705.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolReports", "SchoolReports\SchoolReports.csproj", "{218637E2-BF5F-4513-B6E2-5EF8618063AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4C82CD2B-AF3C-458B-A12B-BFB9B9822689}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Program Files (x86)\Microsoft SQL Server\MSSQL12.SQLEXPRESS\MSSQL\DATA\SchoolApp.mdf = ..\..\..\..\..\Program Files (x86)\Microsoft SQL Server\MSSQL12.SQLEXPRESS\MSSQL\DATA\SchoolApp.mdf
+		..\..\..\..\..\Program Files (x86)\Microsoft SQL Server\MSSQL12.SQLEXPRESS\MSSQL\DATA\SchoolApp_log.ldf = ..\..\..\..\..\Program Files (x86)\Microsoft SQL Server\MSSQL12.SQLEXPRESS\MSSQL\DATA\SchoolApp_log.ldf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218637E2-BF5F-4513-B6E2-5EF8618063AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218637E2-BF5F-4513-B6E2-5EF8618063AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218637E2-BF5F-4513-B6E2-5EF8618063AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218637E2-BF5F-4513-B6E2-5EF8618063AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F07036F-9C16-4BCD-BC41-E58085F81C48}
+	EndGlobalSection
+EndGlobal
